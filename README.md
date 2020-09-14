@@ -5,6 +5,10 @@
 
 From Kaggle: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
 
+## result blog post:
+
+https://medium.com/@lydiafz_Zoe/know-it-before-it-happens-potential-factors-associated-with-suicides-f8cd364de729
+
 ## Code:
 
 Jupyter notebook.
