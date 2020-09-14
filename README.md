@@ -7,7 +7,7 @@ From Kaggle: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-t
 
 ## Code:
 
-Jupyter note book.
+Jupyter notebook.
 
 ## Questions and results summary:
 
