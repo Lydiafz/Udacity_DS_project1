@@ -1,15 +1,15 @@
 
 # Overview of world suicide rates from 1985-2016
 
-Dataset:
+## Dataset:
 
 From Kaggle: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
 
-Code:
+## Code:
 
 Jupyter note book.
 
-Questions and results summary:
+## Questions and results summary:
 
 In this prjoect, I aimed to explore the following questions using explorotary and visualization analysis:
 
