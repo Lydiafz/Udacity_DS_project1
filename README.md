@@ -3,6 +3,9 @@
 - [Installation](#installation)
 - [Project Motivation](#Motvation)
 
+<a name = "Motivation"></a>
+
+## Project Motivation
 # Overview of world suicide rates from 1985-2016
 
 ## Dataset:
