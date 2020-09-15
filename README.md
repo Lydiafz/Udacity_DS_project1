@@ -6,11 +6,13 @@
 
 2. [Project Motivation](#motive)
 
-3. [File Descriptions](#files)
+3. [Research questions](#topic)
 
-4. [Results](#Results)
+4. [File Descriptions](#files)
 
-5. [Licensing, Authors, and Acknowledgements](#terms)
+5. [Results](#Results)
+
+6. [Licensing, Authors, and Acknowledgements](#terms)
 
 <a name = "install"></a>
 ## Installation
@@ -20,6 +22,17 @@ All the analysis were done using jupyter notebook implemented in Anaconda (pytho
 
 ## Project Motivation
 
+As a researcher in human cognitive neuroscience field, we are digging the deep brain mechanism of suicide, and we are trying to find ways to predict and prevent suicides. However, besides underlying neural correlates, there are some explicit factors linked to suicide rates, such as gender, age, culture etc. An overview and exploratory analysis on these potential factors will help us predict and implement effective interventions at population, sub-population and individual levels to prevent suicides and suicides attempts.
+
+<a name = "topic"></a>
+
+## Research questions
+This project aims to explore the potential factors that might be associated with suicide. In this project, I am intereted in the following questions:
+- How does the world suicide rates change across 30 years?
+- Differences between females and males in suicide rates.
+- How does the age affect suicide rates?
+- Is there any relationship between suicide rates and other numerical variable?
+- Which factors are the best predictors of suicide rates?
 
 ## Dataset:
 
