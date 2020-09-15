@@ -28,7 +28,7 @@ As a researcher in human cognitive neuroscience field, we are digging the deep b
 
 ## Research questions
 This project aims to explore the potential factors that might be associated with suicide. In this project, I am intereted in the following questions:
-- How does the world suicide rates change across 30 years?
+- How does the world suicide rates change across the recent three decades?
 - Differences between females and males in suicide rates.
 - How does the age affect suicide rates?
 - Is there any relationship between suicide rates and other numerical variable?
