@@ -1,5 +1,7 @@
+# Overview of world suicide rates from 1985-2016
 
 # Table of Contents
+
 1. [Installation](#instal)
 
 2. [Project Motivation](#motive)
@@ -10,10 +12,13 @@
 
 5. [Licensing, Authors, and Acknowledgements](#terms)
 
+<a name = "install"></a>
+All the analysis were done using jupyter notebook implemented in Anaconda (python 3). No special toolbox needs be installed. Sklearn was used for the linearRegression model fit.
+
 <a name = "motive"></a>
 
 ## Project Motivation
-# Overview of world suicide rates from 1985-2016
+
 
 ## Dataset:
 
