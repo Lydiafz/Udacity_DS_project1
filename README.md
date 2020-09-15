@@ -16,7 +16,7 @@
 
 <a name = "install"></a>
 ## Installation
-All the analysis were done using jupyter notebook implemented in Anaconda (python 3). No special toolbox needs be installed. Sklearn was used for the linearRegression model fit.
+All the analysis were performed using jupyter notebook implemented in Anaconda (python 3). No special toolbox needs be installed. Sklearn was used for the linearRegression model fit.
 
 <a name = "motive"></a>
 
