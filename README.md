@@ -1,14 +1,14 @@
 
 # Table of Contents
-1. [Installation.](#instal)
+1. [Installation](#instal)
 
-2. [Project Motivation.](#motive)
+2. [Project Motivation](#motive)
 
 3. [File Descriptions](#files)
 
 4. [Results](#Results)
 
-5. [Licensing,Authors,and Acknowledgements](#terms)
+5. [Licensing, Authors, and Acknowledgements](#terms)
 
 <a name = "motive"></a>
 
