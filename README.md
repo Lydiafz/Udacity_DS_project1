@@ -1,7 +1,7 @@
 
 # Table of Contents
-- [Installation](#test)
-
+- [Installation](#installation)
+- [Project Motivation](#Motvation)
 
 # Overview of world suicide rates from 1985-2016
 
