@@ -45,7 +45,7 @@ This project aims to explore the potential factors that might be associated with
 
 ## Results
 
-Detailed project results and visulization were posted in my peroanl blog. Please [click here](https://medium.com/@lydiafz_Zoe/know-it-before-it-happens-potential-factors-associated-with-suicides-f8cd364de729)
+Detailed project results and visulization were posted in my personal blog. Please [click here](https://medium.com/@lydiafz_Zoe/know-it-before-it-happens-potential-factors-associated-with-suicides-f8cd364de729)
 
 <a name = "terms"></a>
 
