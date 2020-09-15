@@ -22,7 +22,7 @@ All the analysis were done using jupyter notebook implemented in Anaconda (pytho
 
 ## Project Motivation
 
-As a researcher in human cognitive neuroscience field, we are digging the deep brain mechanism of suicide, and we are trying to find ways to predict and prevent suicides. However, besides underlying neural correlates, there are some explicit factors linked to suicide rates, such as gender, age, culture etc. An overview and exploratory analysis on these potential factors will help us predict and implement effective interventions at population, sub-population and individual levels to prevent suicides and suicides attempts.
+As a researcher in human cognitive neuroscience field, we are digging the deep brain mechanism of suicide, and we are trying to find ways to predict and prevent suicides. However, besides underlying neural correlates, there are some explicit factors linked to suicide rates, such as gender, age, culture etc. An overview and exploratory analysis on these potential factors will help us predict and implement effective interventions at population, sub-population and individual levels to prevent suicides and suicides attempts. Also, I believe this project is a good practice for my Data Science learning.
 
 <a name = "topic"></a>
 
@@ -34,9 +34,13 @@ This project aims to explore the potential factors that might be associated with
 - Is there any relationship between suicide rates and other numerical variable?
 - Which factors are the best predictors of suicide rates?
 
-## Dataset:
+<a name = "file"></a>
 
-From Kaggle: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+## File Descriptions
+
+### Dataset:
+
+The dataset is from From Kaggle: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
 
 ## result blog post:
 
