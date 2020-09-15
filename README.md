@@ -2,7 +2,7 @@
 # Table of Contents
 1. [Installation.](#instal)
 
-2. [Project Motivation.](# motive)
+2. [Project Motivation.](#motive)
 
 3. [File Descriptions](#files)
 
@@ -10,7 +10,7 @@
 
 5. [Licensing,Authors,and Acknowledgements](#terms)
 
-<a name = "Motivation"></a>
+<a name = "motive"></a>
 
 ## Project Motivation
 # Overview of world suicide rates from 1985-2016
