@@ -40,7 +40,7 @@ This project aims to explore the potential factors that might be associated with
 
 ### Dataset:
 
-The dataset is from From Kaggle: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+The dataset is dataset of suicide rates overview 1985 to 2016 provided by Kaggle,
 
 ## result blog post:
 
