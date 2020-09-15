@@ -1,6 +1,6 @@
 
 # Table of Contents
-
+-[installation]
 
 
 # Overview of world suicide rates from 1985-2016
